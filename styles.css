@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css"> 
+        body{
+           background-color:lightcyan
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+        }
+        h1 {
+            color: coral;
+            text-decoration:underline;
+        }
+        h2{
+     color:coral
+        }
+     h2{
+    font-size:italic;
+     width:max-content;
+     padding:5px;
+   }
+        h2:hover{
+color:red
+        }
+        div{
+            background-color:lightgoldenrodyellow;
+            border-style:solid;
+            border-color:black;
+            border-radius:5px;
+            font-size: italic;
+              background-color:aqumarine;
+              width:max-content;
+              padding: 0.25em;;
+
+        }
+        
+.navbar{
+  background-color: rgb(156, 152, 235);
+  padding: 0.25em;
+}
+      
+.navbar p{
+  color:rgb(165, 245, 200);}
+  .navbar{
+  margin-right: 1em;
+  font-size: ;24px
+  box-shadow: 2px 1px rgb (253,253,253);
+}
+
+.navbar p:hover{
+  color:rgb(94, 255, 0)
+}
+.navbar p:active{
+  background-color:rgb(151, 168, 64);
+  border-radius: 50%;
+}
+.navbar a href :hover{
+  color :coral;
+}
+.navbar a href: active{
+  backround color: lightblue 
+}
+.navbar a href :active{
+  backround color:lightpink
+  border-radius:50%;
+        .shadow-text{
+      text-shadow: grey 1px 1px
+      text-shadow: grey 1px 1px
+      text-shadow: grey 1px 1px
+        }
+        #large paragraph{
+          font size: 50 px;
+        }
+        #WELCOME{
+          display:flex ;
+          justify-content: space-around;
+          flex-wrap: wrap;
+        }
+        #WELCOME p{
+text-align:center;
+        }
+  
+        form{
+background-color: blue
+    }
+    form {
+display: flex;
+flex-direction:column
+max-width 250px;
+}
+
+    form text{
+      color:white;
+    }
+form text{
+      font-weight:600;
+      font-size:larger;
+      text-align:center;
+    }
+
+   form input{
+    margin-bottom:1em;
+   }
+form button {
+  padding:5px;
+  letter-spacing: 3px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+  </head>
+  <body>
+    <h1>Home</h1>
